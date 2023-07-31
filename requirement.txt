@@ -1,0 +1,7 @@
+gym
+numpy
+ipython
+tensorflow
+keras
+keras-rl2
+pandas
